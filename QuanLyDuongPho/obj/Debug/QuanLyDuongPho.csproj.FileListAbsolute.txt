@@ -1,0 +1,2 @@
+C:\Users\asus\RiderProjects\StreetCRUD\QuanLyDuongPho\obj\Debug\QuanLyDuongPho.csprojAssemblyReference.cache
+C:\Users\asus\RiderProjects\StreetCRUD\QuanLyDuongPho\obj\Debug\QuanLyDuongPho.csproj.CoreCompileInputs.cache

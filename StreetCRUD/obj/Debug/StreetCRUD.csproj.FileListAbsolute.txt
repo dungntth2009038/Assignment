@@ -1,0 +1,62 @@
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\obj\Debug\StreetCRUD.csprojAssemblyReference.cache
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\obj\Debug\StreetCRUD.exe.config
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\obj\Debug\StreetCRUD.csproj.CoreCompileInputs.cache
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\bin\Debug\StreetCRUD.exe.config
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\bin\Debug\StreetCRUD.exe
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\bin\Debug\StreetCRUD.pdb
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\bin\Debug\Google.Protobuf.dll
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\bin\Debug\MySql.Data.dll
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\bin\Debug\System.Buffers.dll
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\bin\Debug\System.Memory.dll
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\bin\Debug\Zstandard.Net.dll
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\bin\Debug\Google.Protobuf.pdb
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\bin\Debug\Google.Protobuf.xml
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\bin\Debug\MySql.Data.xml
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\bin\Debug\System.Buffers.xml
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\bin\Debug\System.Memory.xml
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\obj\Debug\StreetCRUD.csproj.CopyComplete
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\obj\Debug\StreetCRUD.exe
+C:\Users\asus\RiderProjects\StreetCRUD\StreetCRUD\obj\Debug\StreetCRUD.pdb
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\bin\Debug\StreetCRUD.exe.config
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\bin\Debug\StreetCRUD.exe
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\bin\Debug\StreetCRUD.pdb
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\bin\Debug\Google.Protobuf.dll
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\bin\Debug\MySql.Data.dll
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\bin\Debug\System.Buffers.dll
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\bin\Debug\System.Memory.dll
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\bin\Debug\Zstandard.Net.dll
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\bin\Debug\Google.Protobuf.pdb
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\bin\Debug\Google.Protobuf.xml
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\bin\Debug\MySql.Data.xml
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\bin\Debug\System.Buffers.xml
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\bin\Debug\System.Memory.xml
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\obj\Debug\StreetCRUD.csprojAssemblyReference.cache
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\obj\Debug\StreetCRUD.exe.config
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\obj\Debug\StreetCRUD.csproj.CoreCompileInputs.cache
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\obj\Debug\StreetCRUD.csproj.CopyComplete
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\obj\Debug\StreetCRUD.exe
+C:\Users\My pc\RiderProjects\StreetCRUD\StreetCRUD\StreetCRUD\obj\Debug\StreetCRUD.pdb
